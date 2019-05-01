@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand{
+  cursor: pointer;
+}
+#wrapper{
+  margin-bottom: 100px;
+}
+.left{
+  height: 500px;
+}
+.right{
+  height: auto;
+}
+#f-plan{
+  width: 100%;
+  height: auto;
+  background-color: #FC0;
+  margin-top: -20px;
+}
+#info{
+  width: 100%;
+  height: auto;
+  background-color: #FC0;
+  margin-top: 20px;
+}
+#overlap{
+  width: 100%;
+  height: auto;
+  background-color: #FC0;
+  margin-top: 20px;
+}
+#video{
+  width: 100%;
+  height: auto;
+  background-color: #FC0;
+}
+#space{
+  height: auto;
+  margin-top: 100px;
+}
+#table{
+  float: left;
+  margin-left: 50px;
+}
+.single-course{
+  padding: 5px;
+  background-color: #2AB8F5;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.end{
+  text-align: right;
+}
+#note{
+  width: 78%;
+  margin-bottom: 100px;
+  float: left;
+  margin-left: 50px;
+}
+#total_credits{
+  width: 20%;
+  height: 30px;
+  border: 1px solid #CCC;
+  text-align: right;
+  padding: 5px;
+}
+
+@media print {
+  .right { display:none; }
+  #left { display:block; width:100%; margin:0px; padding:0px }
+}
+
+table { page-break-inside:auto }
+tr    { page-break-inside:avoid; page-break-after:auto }
+thead { display:table-header-group }
+tfoot { display:table-footer-group }

@@ -1,0 +1,76 @@
+ARAB 101, Arabic Elements I
+ARAB 201, Arabic Intermediate I
+ARAB 301, Arabic Composition & Conversation
+ARTH 105, Art in Culture
+ARTH 109, Art and the Human Body
+ARTH 207, Honors Art History
+ARTH 221, Survey of Western Art I
+ARTH 222, Survey of Western Art II
+CHNS 101, Elementary Chinese I
+CHNS 201, Intermediate Chinese I
+CHNS 301, Chinese Composition & Conversation
+COMM 131, Public Speaking
+COMM 132, Honors Public Speaking
+DANC 101, The Alexander Technique
+DANC 105, Movement Skills for Men
+DANC 123, Introduction to Dance: European Court
+DANC 130, Dance and Myth
+DFST 104, American Sign Language I
+EMF 313, Film History
+ENGL 205, Shakespeare for Non-Majors
+ENGL 221, British Literature to 1798
+ENGL 222, British Literature Since 1798
+ENGL 240, Classics of the Western Heritage
+ENGL 243, Introduction to Classical Mythology
+ENGL 244, World Folklore
+ENGL 261, Elements of Poetry
+ENGL 263, Elements of Fiction
+ENGL 290, Honors Seminar: Literature
+FREN 101, French Elements I
+FREN 201, French Intermediate I
+FREN 301, Advanced Conversation
+GERM 101, German Elements I
+GERM 201, German Intermediate
+GERM 301, German Composition & Conversation
+GRK 103, Ancient Greek Elements
+HEBR 101, Elements of Hebrew I
+HEBR 103, Biblical Hebrew I
+HEBR 201, Hebrew Intermediate I
+HEBR 203, Biblical Hebrew III
+HIST 101, Introduction to Ancient Mediterranean Cvl
+HIST 102, History of European Civilization Thru 17th C.
+HIST 103, History of European Civilization from 17th C.
+HONR 235, Honors Seminar: Arts & Humanities
+ITAL 101, Italian Elements I
+ITAL 201, Italian Intermediate I
+ITAL 301, Italian Composition & Conversation
+JPNS 101, Japanese Elements I
+JPNS 201, Japanese Intermediate I
+JPNS 301, Japanese Composition & Conversation
+LATN 101, Latin Elements I
+LATN 201, Latin Intermediate I
+LATN 301, Advanced Readings in Latin I
+MUSC 101, Intro to Music of the Western Heritage
+MUSC 114, Music, Technology & Culture
+MUSC 127, Elements and History of Rock Music
+PHIL 101, Introduction to Philosophy
+PHIL 111, Introduction to Logic
+PHIL 221, Ancient Greek Philosophy
+PORT 101, Portuguese Elements I
+PORT 201, Portuguese Intermediate I
+PORT 301, Composition & Conversation in Portuguese
+RLST 103, Exploring Biblical Archeology
+RLST 201, Introduction to the Hebrew Bible
+RLST 202, Introduction to Christianity
+RLST 211, Introduction to Jewish Thought
+RLST 325, Jeiwsh Graphic Novels
+RUSS 101, Russian Elements I
+RUSS 201, Russian Intermediate I
+SEMS 250, Perspectives in Science and Mathematics
+SPAN 101, Spanish Elements I
+SPAN 201, Spanish Intermediate I
+SPAN 203, Honors Spanish Intermediate I
+SPAN 301, Composition & Conversation I
+SPAN 303, Spanish for Heritage Speakers I
+THEA 100, Introduction to Theatre
+THEA 242, Costume, Dress, & Society

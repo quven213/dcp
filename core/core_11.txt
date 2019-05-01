@@ -1,0 +1,37 @@
+AMST 201, Introduction to American Studies
+ANTH 209, Anthropology of American Culture
+ARTH 113, Myths and Stories in American Art
+CLST 201, Introduction to Cultural Studies
+CLST 202, Honors Introduction to Cultural Studies
+CRMJ 254, Introduction to Criminal Justice
+DANC 127, Intro to Dance: American Experience
+ENGL 230, Main Currents in American Literature
+ENGL 231, American Literature to 1865
+ENGL 232, American Literature since 1865
+ENGL 238, Survey of American Literature
+FMST 315, American Families on Television
+HIST 145, History of the U.S. to the Civil War
+HIST 146, History of the U.S. since the Civil War
+HIST 147, Honors History of the U.S. to the Civil War
+HIST 148, Honors History of the U.S. Since the Civil War
+HLTH 101, Wellness for a Diverse Society
+HLTH 102, Honors Wellness for a Diverse Society
+HLTH 207, Health Care in the U.S.
+HLTH 217, Honors Health Care in the U.S
+KNES 235, Physical Wellness for a Healthy America
+KNES 251, History of Sport in America
+MUSC 111, Introduction to Music in the U.S.
+MUSC 123, Jazz History for Non-Majors
+MUSC 125, Honors Jazz History for Non-Majors
+MUSC 201, Music in the U.S.: Analytic Emphasis
+POSC 103, American National Government
+POSC 207, State Government
+POSC 209, Introduction to Law
+POSC 212, Honors in Political Science
+POSC 343, African-American Politics
+RLST 204 Christianities in America (new)
+RLST 225 American Jewish Humor (new)
+SOCI 210, Sociology of Sport
+THEA 103, Introduction to American Theater
+WMST 235, American Women & Popular Culture
+HONR 230, Honors Seminar: United States as a Nation

@@ -1,0 +1,361 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>HCMN-DCP</title>
+  <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="css/index.css"/>
+
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+
+  <script src="js/verify.js"></script>
+</head>
+<body>
+
+  <nav class="navbar navbar-inverse">
+    <header onclick="window.location='https://www.towson.edu'" class="navbar-brand">Towson University</header>
+  </nav>
+
+  <main>
+
+    <div class="container-fluid">
+      <h1><b>Four Year Plan of Study</b></h1><hr/>
+    </div>
+
+    <div class="container" id="tables">
+
+      <div id="freshman">
+        <h3><b>Freshman</b></h3><hr/>
+        <div class="row">
+          <div class='col-sm-6 col-md-6 col-lg-6 col-xl-6'>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Term 1</th>
+                  <th>Units</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>COSC 111</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>GERO 101 or SOCI 101</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>LEGL 225</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 1(or Core 2)</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 5</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>15</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class='col-sm-6 col-md-6 col-lg-6 col-xl-6'>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Term 2</th>
+                  <th>Units</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>ACCT 201</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>ECON 201 (Core 6)</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>HLTH 207 (Core 11)</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 2 (or Core 1)</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 7</td>
+                  <td>4</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>16</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <div id="sophomore">
+        <h3><b>Sophomore</b></h3><hr/>
+        <div class="row">
+          <div class='col-sm-6 col-md-6 col-lg-6 col-xl-6'>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Term 1</th>
+                  <th>Units</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>ACCT 202</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>ECON 202</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>HCMN 305</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 8</td>
+                  <td>3-4</td>
+                </tr>
+                <tr>
+                  <td>Core 10</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td><br/></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>15-16</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class='col-sm-6 col-md-6 col-lg-6 col-xl-6'>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Term 2</th>
+                  <th>Units</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>AHLT 311</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>ENGL 317 (Core 9))</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>MATH 231 or ECON 205 (Core 3)</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 12</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 13</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Elective</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>18</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <div id="junior">
+        <h3><b>Junior</b></h3><hr/>
+        <div class="row">
+          <div class='col-sm-6 col-md-6 col-lg-6 col-xl-6'>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Term 1</th>
+                  <th>Units</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MKTG 341</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>MNGT 361</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>HCMN 417</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 4</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Core 11</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>15</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class='col-sm-6 col-md-6 col-lg-6 col-xl-6'>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Term 2</th>
+                  <th>Units</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>FIN 330</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>HCMN 419 (or elective)</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>HCMN 441 (Core 14)</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Elective</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>Elective</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>18</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-bottom:100px" id="senior">
+        <h3><b>Senior</b></h3><hr/>
+        <div class="row">
+          <div class='col-sm-6 col-md-6 col-lg-6 col-xl-6'>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Term 1</th>
+                  <th>Units</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>AHLT 440</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>GERO 350 (or elective)</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>HCMN 413</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>HCMN 415</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>HCMN 435</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>15</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class='col-sm-6 col-md-6 col-lg-6 col-xl-6'>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Term 2</th>
+                  <th>Units</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>HCMN 495</td>
+                  <td>12</td>
+                </tr>
+                <tr>
+                  <td><br/></td>
+                  <td><br/></td>
+                </tr>
+                <tr>
+                  <td><br/></td>
+                  <td><br/></td>
+                </tr>
+                <tr>
+                  <td><br/></td>
+                  <td><br/></td>
+                </tr>
+                <tr>
+                  <td><br/></td>
+                  <td><br/></td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>12</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </main>
+
+</body>
+</html>

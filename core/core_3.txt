@@ -1,0 +1,18 @@
+ECON 205, Statistics for Business and Economics
+MATH 105, Mathematical Ideas
+MATH 106, Intro to Contemporary Math
+MATH 109, Transition to Algebra for Applications
+MATH 111, Finite Mathematics
+MATH 115, Basic Mathematics for the Sciences
+MATH 119, Pre-Calculus(4)
+MATH 205, Mathematical Concepts & Structure II(4)
+MATH 211, Calculus for Application
+MATH 231, Basic Statistics
+MATH 233, Honors Basic Statistics
+MATH 237, Elementary Biostatistics(4)
+MATH 263, Discrete Mathematics
+MATH 273, Calculus I(4)
+MATH 274, Calculus II(4)
+MATH 283, Honors Calculus I(4)
+MATH 284, Honors Calculus Il(4)
+MATH 293, Honors Seminar: Mathematics

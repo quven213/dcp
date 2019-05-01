@@ -1,0 +1,27 @@
+ART 103, 2D Process
+ART 106, Drawing for Non-Majors
+ART 107, Ceramics for Non-Art Majors
+ART 109, Sculpture for Non-Majors
+ART 113, Painting for Non-Majors
+ART 117, Printmaking for Non-Majors
+ART 146, Honors Drawing for Non-Art Majors
+ART 156, Artist Books for Non-Art Majors
+ART 157, Letterpress for Non-Art Majors
+ART 161, Digital Object Design for Non-Art Majors (new)
+COSC 109, Computers & Creativity
+COSC 225, Honors Introduction to Lego Robotics
+DANC 106, Fundamentals of Dance Movement (NM)
+DANC 235, Dance Composition
+ENGL 283, Introduction to Creative Writing
+ENGL 311, Writing Poetry
+ENGL 312, Writing Fiction
+ENGL 315 Writing Creative Non-Fiction (effective fall 2014)
+ENGL 332, Honors Writing Fiction
+HONR 225, Honors Seminar: Creativity & Creative Dev
+MUSC 105, Music Theory for Non-Majors
+MUSC 116, Songwriting & Basic Music Comp (NM)
+MUSC 287 Creative Music Technology (new)
+THEA 101, Acting I
+THEA 102, Honors Acting I
+THEA 142, Introduction to Theatre Design
+THEA 204, Creating Communities of Action

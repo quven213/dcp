@@ -1,0 +1,72 @@
+ANTH 207, Cultural Anthropology
+ANTH 210, Honors Cultural Anthropology
+ARAB 102, Arabic Elements II
+ARAB 202, Arabic Intermediate II
+ARAB 302, Arabic Composition & Conversation II
+ARTH 107, Art: Themes, Dreams and Visions
+CHNS 102, Elementary Chinese II
+CHNS 202, Chinese Composition & Conversation I
+DANC 125, Dance: Global Perspectives
+ENGL 248, Literature of Global Perspectives
+FREN 102, French Elements II
+FREN 202, French Intermediate II
+FREN 302, Advanced Composition
+GEOG 102, World Regional Geography
+GEOG 105, Geography of International Affairs
+GEOG 109, Introduction to Human Geography
+GEOG 110, Honors Intro to Human Geography
+GEOG 112, Honors World Regional Geography
+GERM 102, German Elements II
+GERM 202, German Intermediate II
+GERM 302, German Composition & Conversation II
+GRK 104, Ancient Greek Elements II
+GRK 204, Ancient Greek Intermediate II
+HEBR 102, Elements of Hebrew II
+HEBR 104, Biblical Hebrew II
+HEBR 202, Hebrew Intermediate II
+HEBR 204, Biblical Hebrew IV
+HEBR 302, Hebrew Composition & Conversation
+HIST 110, East Asian Civilization to 19th Century
+HIST 111, Modern East Asia since 19th Century
+HIST 117, Islamic History
+HIST 118, Modern Middle East History
+HIST 121, Latin America: Colonial Period
+HIST 122, Latin America: National Period
+HIST 135, History of Africa to 1900
+HIST 136, History of Africa Since 1900
+HIST 160, World History Before 1300
+HIST 161, World History Since 1300
+HIST 342, Sailors, Merchants, Spies: Portuguese Encounters, 1400-1700
+ITAL 102, Italian Elements II
+ITAL 202, Italian Intermediate II
+ITAL 302, Italian Composition & Conversation II
+JPNS 102, Japanese Elements II
+JPNS 202, Japanese Intermediate II
+JPNS 302, Japanese Composition & Conversation II
+KNES 285, Sport: Cross-Cultural Perspective
+LAST 100, Latin America: Issues & Approaches
+LATN 102, Latin Elements II
+LATN 202, Latin Intermediate II
+LATN 302, Advanced Readings in Latin II
+MUSC 202, Music Cultures of the World
+MUSC 112, World Music: Americas, Africa, W Euro
+OCTH 205, Alternative and Complimentary Health Care
+PHIL 219, Introduction to Asian Philosophy
+PORT 102, Portuguese Elements II
+PORT 202, Portuguese Intermediate II
+POSC 105, Governments of the World
+POSC 107, Introduction to International Relations
+POSC 108, Honors Intro to International Relations
+RLST 105, Introduction to the Study of Religion
+RLST 203, Introduction to Islam
+RLST 207, Introduction to Buddhism
+RLST 208, Introduction to Hinduism
+RUSS 102, Russian Elements II
+RUSS 202, Russian Intermediate II
+SPAN 102, Spanish Elements II
+SPAN 202, Spanish Intermediate II
+SPAN 204, Honors Spanish Intermediate II
+SPAN 302, Spanish Composition & Conversation II
+SPAN 304, Spanish for Heritage Speakers II
+WMST 233, International Perspectives of Women
+HONR 243, Honors Seminar: Global Perspectives

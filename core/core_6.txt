@@ -1,0 +1,14 @@
+ECON 201, Microeconomic Principles
+ECON 202, Macroeconomic Principles
+ECON 203, Honors Microeconomic Principles
+ECON 204, Honors Macroeconomic Principles
+FMST 101, Introduction to Family Studies
+FMST 102, Honors Introduction to Family Studies
+GERO 101, Introduction to Gerontology
+HONR 237, Honors Seminar: Social & Behavioral
+POSC 101, Introduction to Political Science
+POSC 102, Honors Introduction to Political Science
+PSYC 101, Introduction to Psychology
+PSYC 102, Honors Introduction to Psychology
+SOCI 101, Introduction to Sociology
+SOCI 102, Honors Introduction to Sociology

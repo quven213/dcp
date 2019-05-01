@@ -1,0 +1,45 @@
+AHLT 440, Technical and Professional Issues in Allied Health
+ANTH 401, Anthropological Theory
+ART 351, Writing About Art
+BIOL 381, Writing in the Biological Sciences
+BUSX 301, Business Communications
+CHEM 301, Professional Ethics for Scientists
+COMM 300 Research Methods (effective fall 2014)
+DANC 321, Responding to Dance
+ECED 422, Writing Techniques for Teachers in ECED
+EDUC 301, Writing & Communication Skills for Teacher
+ELED 320, Writing for Elementary Educators
+EMF 377 , Broadcast/Film Writing
+ENGL 310, Writing Argument
+ENGL 313, Academic Essay
+ENGL 316, Writing About Literature
+ENGL 317, Writing for Business and Industry
+ENGL 318, Advanced Informational Writing
+ENVS 337, The Chesapeake Bay and Its Watershed
+FMST 485, Research Methods in Family Studies
+FORL 320 Language Acquisition (new)
+GEOG 383, Natural Resources and Society
+GEOG 401, Growth of Geographic Thought
+HIST 300, Introduction to Historical Study
+HLTH 315, Curriculum and Planning
+KNES 351, Philosophy: The Sport Experience
+KNES 353, Sport and Society
+KNES 354, Honors Sport and Society
+KNES 417, Org. & Admin. of Athletic Training
+KNES 469, Research Methods in Exercise Science
+MCOM 356, Feature Writing
+MCOM 357, Public Relations Writing
+MUSC 302, Western Music From 1750-1914
+NURS 333, Professional Nursing II: Issues
+OCTH 430, Research Methods in Occupational Therapy
+PHIL 460, Writing Seminar in Philosophical Studies
+PSYC 313, Research Design & Statistical Analysis
+PSYC 314, Research Methods in Psychology
+RLST 354, Religion and Science new
+SEMS 360, Research Methods
+SOCI 300, Sociological Analysis
+SPPA 417, Research and Clinical Writing in Communications Disorders
+THEA 307, Theories of Theatre
+WMST 333, Women’s Words, Women’s Lives
+WRIT 312, History of Science
+WRIT 375, Public Administration

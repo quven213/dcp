@@ -1,0 +1,27 @@
+ASTR 301, Cosmic Origins
+BIOL 306, Human Ecology & Sustainability
+CLST 311 , Science, Technology and Culture
+COSC 418, Societal & Ethical Concerns of Computer Science
+ENGL 301, Rhetoric and Science
+FMST 325, Ethics in Human Service
+HCMN 441, Legal and Ethical Issues in Health Administration
+HIST 205, Ethical Perspectives in History
+HIST 330, Ethical Dilemmas in History of Science and Technology
+IDHP 325 Ethics and Healthcare for the Professional
+MNGT 482, Business Ethics and Sustainability
+MUSC 355, Ethics Issues & Perspectives in Music
+PHIL 103, Introduction to Ethics
+PHIL 212, Honors: Special Studies in Philosphy
+PHIL 255, Environmental Ethics
+PHIL 342, What Makes Us Moral
+PHIL 361, Biomedical Ethics
+RLST 305, Faith Perspective in Medical Ethics
+RLST 310 Jewish Law and Ethics (effective fall 2019)
+PHIL 340, Plato's Ethics
+PHIL 371, Business Ethics
+RLST 313, Islamic Ethics
+SCED 304, Education, Ethics and Change (EDUC 205)
+THEA 310, Theater for Social Change
+WMST 382, Christian Sexual Ethics
+WMST 383, Animal Right, Human Rights
+HONR 345, Honors Seminar: Ethical Issues and Perspectives

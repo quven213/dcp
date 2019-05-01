@@ -1,0 +1,25 @@
+ASTR 161, The Sky and the Solar System
+ASTR 181, Stars, Galaxies, and the Early Universe
+BIOL 117, Honors Principles of Biology
+BIOL 120, Principles of Biology (must take BIOL 120L)
+BIOL 191 + 191L, Introductory Biology Health Professions
+BIOL 192, Honors Biology Health Professions
+BIOL 200 + 200L, Biology I:  Cellular Biology & Genetics
+BIOL 202, Biology II:  Intro to Ecology & Genetics)
+CHEM 104, Intro to Environmental Chemistry
+CHEM 115, Honors Allied Health Professionals I
+CHEM 121 + 121L, Chemistry Allied Health Professionals I
+CHEM 131+ 131L, General Chemistry
+CHEM 132 + 132L, General Chemistry II)
+GEOL 121, Physical Geology
+GEOL 122, Honors Physical Geology
+PHSC 101, Physical Science
+PHYS 131, Light and Color
+PHYS 143, Physics of Sound and Music
+PHYS 202, General Physics for Health Sciences(5)
+PHYS 211, General Physics I Non-Calculus Based
+PHYS 212, General Physics II Non-Calculus Based
+PHYS 241, General Physics I Calculus Based
+PHYS 242, General Physics II Calculus Based
+PHYS 251, Honor General Physics I Calculus Based
+PHYS 252, Honor General Physics II Calculus Based
